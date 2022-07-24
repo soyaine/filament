@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 竹纤维内存</title>
+    <link>https://fiber.win/tags/</link>
+    <description>Recent content in Tags on 竹纤维内存</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 24 Jul 2022 20:16:11 +0800</lastBuildDate><atom:link href="https://fiber.win/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>repo</title>
+      <link>https://fiber.win/tags/repo/</link>
+      <pubDate>Sun, 24 Jul 2022 20:16:11 +0800</pubDate>
+      
+      <guid>https://fiber.win/tags/repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>水彩</title>
+      <link>https://fiber.win/tags/%E6%B0%B4%E5%BD%A9/</link>
+      <pubDate>Sun, 24 Jul 2022 20:16:11 +0800</pubDate>
+      
+      <guid>https://fiber.win/tags/%E6%B0%B4%E5%BD%A9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>watch</title>
+      <link>https://fiber.win/tags/watch/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fiber.win/tags/watch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>read</title>
+      <link>https://fiber.win/tags/read/</link>
+      <pubDate>Wed, 08 May 2019 11:55:45 +0800</pubDate>
+      
+      <guid>https://fiber.win/tags/read/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

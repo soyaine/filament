@@ -1,0 +1,649 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on 竹纤维内存</title>
+		<link>https://fiber.win/posts/</link>
+		<description>Recent content in Posts on 竹纤维内存</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sun, 24 Jul 2022 20:16:11 +0800</lastBuildDate>
+		<atom:link href="https://fiber.win/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Emmy的水彩101：适合理科生的颜色入门</title>
+			<link>https://fiber.win/posts/review-emmy-watercolor101/</link>
+			<pubDate>Sun, 24 Jul 2022 20:16:11 +0800</pubDate>
+			
+			<guid>https://fiber.win/posts/review-emmy-watercolor101/</guid>
+			<description>前情 这篇文章最初只是我想记录下水彩课带给我的快乐时刻，后来零星写着我居然就上完课了，于是转念一想，要不写成这门课的repo好了，一方面是写给</description>
+			<content type="html"><![CDATA[<h2 id="前情">前情</h2>
+<p>这篇文章最初只是我想记录下水彩课带给我的快乐时刻，后来零星写着我居然就上完课了，于是转念一想，要不写成这门课的repo好了，一方面是写给未来啥也记不住的自己，可以有个回忆素材，另一方面也分享给对水彩或者颜料有兴趣的人作为参考，大概关于这门课带给了我什么意想不到的改变。</p>
+<p>为了发布这篇，我还新弄了博客，非常难得。</p>
+<p>那么，下面我提到的水彩课程呢，是<a href="https://heiheihei.ca/2021/06/02/watercolor101intro/" title="Emmy的水彩课：水彩101">Emmy的水彩课：水彩101</a>，尽管我有尝试写得像篇广告，但好奇课程的话还是要戳链接看官方介绍啦。</p>
+<h2 id="我从哪里知道这个课程的">我从哪里知道这个课程的</h2>
+<p>某个假期我躺在家里刷长毛象的时候，看到有人转嘟《<a href="https://heiheihei.ca/2021/08/30/watercolor201/" title="水彩201 课程介绍和购买">水彩201发布啦</a>》之类的，感觉很好奇于是就问嘟主Emmy：这个101是什么呀，需要先学101吗？然后嘟主和我说明了一下，建议我去看课程资料，然后再做个测试就大概知道了。第二天我就去看了，因为课程资料是放在博客里的，逛博客爱好者我本人就开始了一番探索，探索下来非常惊奇地发现，啊这个博客，不是我以前也逛过的吗？！</p>
+<blockquote>
+<p>这是Emmy的博客链接：<a href="https://heiheihei.ca/">https://heiheihei.ca/</a></p>
+</blockquote>
+<p>大概就是几年前觉得想学画画，啥也不懂，胡乱搜索一番后来撞到一个我非常喜欢的博客，当时叫「小触手的书房」，我来回看了所有的文章，反正最后我把博主整理的各种资料都保存了（并没有看），还下单了她极力推荐的一本书《巴尔格的素描教程》，有断断续续跟着画前面的几篇，自然是没怎么坚持下来的。</p>
+<p>这次重新逛她的博客，感觉像是补齐了这些年她生活的事情，特别是关于读艺术本科的部分让我大受鼓舞，并不是我内心有对艺术专业的追求而被激励，而是我被文字里那种非常愉悦热情的感觉共振了，总之不太能准备描述清楚我的感觉，但逛完博客之后我就觉得自己被充满了电，并且深信看博客文章我都能感受到被激励，那这个课程一定也有魔法，我要试试，而此前我对水彩其实没啥想法也没任何了解，于是我就比较了一下国外版和国内版的价格，在国内版下单了，开始了这一个多月的水彩101学习，现在回看我还是觉得这次尝试非常奇妙。</p>
+<p>总结一下，我只是因为非常喜欢Emmy的文章才上这门课的，在此之前我虽然想学画画吧，但从没想过可以从水彩开始入门，没想到这次我真的打开了新的大门。</p>
+<h2 id="我打开了什么门">我打开了什么门</h2>
+<h3 id="从科学角度看见颜色">从科学角度看见颜色</h3>
+<p>本来想了一个充满刻板印象的文章标题是：「<strong>什么？直男也可以学会的色彩课！</strong>」哈哈哈哈，反正以前我对自己的认知就是我分不清口红色号，那些有各种名字的色号图我更是眼花缭乱，也不是没尝试过学习配色，但是看到什么互补色之类的我就很晕，我完全分不清为啥这两个颜色就互补，为啥那俩就和谐呢。</p>
+<p>但Emmy这门水彩101呢，太理科生友好了吧，只要学过高中物理（可能初中也行，只要知道牛顿曾经用棱镜发现了光可以分解就行）就非常轻松能理解为什么不同色素的颜料有不同颜色，非常科学简单。</p>
+<p>课程的角度是「用颜料混色时，是混合了色素，而不是混合了颜色」，也就是把色彩拆成了两个方向，一方面颜料是由色素构成，每种色素都有自己的名字，在课程后半段会分别从几种颜色来介绍常用颜料的色素，这感觉很化学。另一方面呢，每种色素都可以查到它的光谱图，也就能从光的角度理解为什么这种色素是这种颜色，然后理解混色就变成理解两条光谱线合并，我忍不住惊呼，原来这么简单的吗。</p>
+<p>总之如果你觉得颜色是个靠感觉的东西，而且深信自己没有这方面的感觉，那来试试从化学/物理角度理解色彩，绝对可以打破枷锁，Emmy的课程介绍好像也说是想填补中文课程里这方面的空缺，这太难得了，这能让多少看不见分不清颜色的人从此看见颜色。</p>
+<h3 id="颜色语言决定颜色认知">颜色语言决定颜色认知</h3>
+<p>以前看取色工具的那个图，我完全不知道有什么门道，甚至我连三原色是什么都说不出来，结果课上居然讲说三原色的理论并不是真的，我惊掉大牙，然后从色彩偏向理解了为什么。</p>
+<p>课程里有提到「语言塑造认知」，大概是在讲孟德尔颜色系统的时候提到，所以希望大家再见到颜色的时候，抛弃原来的语言，用颜色系统的语言去描述颜色。</p>
+<p>就和情绪词库一样，在我缺少一些词的时候，我是无法感知到我的某些情绪的，而颜色对我来说也是，以前事物在我眼里就是一个个功能性的物体，我不太会在意颜色是什么，我能看到一种颜色，但我其实并没有看见它，我不知道它的学名是什么，它的光谱是什么样的。</p>
+<p>在打开了新的颜色语言视角后，我在路上看到一种绿色的时候，我就开始尝试去想它的邻居是什么颜色，能用什么颜色调出来，我看见的世界变得不一样了，我开始能看见各种各样的颜色，这种体验就像我重新出生了一次似的。</p>
+<h3 id="原来画画和学习都可以蛮开心的">原来画画和学习都可以蛮开心的</h3>
+<p>我居然没有用到毅力啊、坚持啊、自制力之类的，我每天花早餐时间看视频，周末用整块时间画点画，就上完这门课了，非常出乎我的意料。</p>
+<p>Emmy非常强调要保护自己的创作热情，说这是最最重要的东西，同时也禁止熬夜看课程视频和写作业。可能以前我和「学习」的关系记忆都不太美好，让我有强的吃苦才能学好的认知，所以这些提示真的非常触动我，这也是我第一门无痛跟下来的课程，并且非常开心和不痛苦，这是我以前从来没有过的体验。</p>
+<p>那么下面记录一些课程过程中我完成的作业图片。</p>
+<p><img src="https://s2.loli.net/2022/07/24/3d6Pl9kAeIfFiBR.jpg" alt="关于明度的练习"></p>
+<p>这是我非常喜欢的关于明度的练习，据说是要做30个会有提升，我感觉找喜欢的电影截图然后毫无压力不需要管是否形状准确，只是练习明度，这个练习会让我非常开心，而且能明显感受到自己的进步。</p>
+<p><img src="https://s2.loli.net/2022/07/24/gwkO29XCDBUseZF.png" alt="从前到后的作业拍照留念"></p>
+<p>这些练习的线稿都是课程提供的，所以其实主要练习调色和涂色，我每完成一张就会贴在墙上，每天看着都会非常开心，甚至最开始的时候我会拍了照片，离开家的时候我抽空也会打开照片看着开心一下。</p>
+<p>就算是大尺寸的橘子这张干了发现不太均匀、有很多水痕，但我看着也非常开心，总之就是很开心，自己手下居然可以出现这样的实体物品，就非常愉悦。这次拍照我全从墙上摘下来才发现很皱，以后画完我知道应该先用书压个几晚再挂起来了。</p>
+<h2 id="我在画材上花了多少钱">我在画材上花了多少钱</h2>
+<p>Emmy 不断强调「不用提前买工具，等看了视频知道了自己需要什么再买也完全来得及」，课程中间还提及留白胶用不完可以倒回去、裁纸的边边角角也是可以利用的，甚至中间居然有一个表格教大家怎么比较水彩纸的价格，以往我不仅完全没有脑力去考虑价格，也对价格本身十分没有敏感度，所以我很开心我居然也可以习得一点点购物比价技能，算是很额外惊喜了。而且我居然有力气整理了下面的表，以往我从来没耐心做这种回顾。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">类别</th>
+<th style="text-align:left">元</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">纸</td>
+<td style="text-align:left">103.54</td>
+</tr>
+<tr>
+<td style="text-align:left">笔</td>
+<td style="text-align:left">141.15</td>
+</tr>
+<tr>
+<td style="text-align:left">固体颜料</td>
+<td style="text-align:left">397.89</td>
+</tr>
+<tr>
+<td style="text-align:left">管状颜料</td>
+<td style="text-align:left">297.63</td>
+</tr>
+<tr>
+<td style="text-align:left">其它</td>
+<td style="text-align:left">211.78</td>
+</tr>
+<tr>
+<td style="text-align:left">[按分类的画材花销]</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>下面我会从这几个分类列出我购买的画材，前期我非常跃跃欲试，就跟着课程工具介绍买了一些，中间因为时间恰好遇到购物促销活动，总的大概比商家标的原价便宜了两百多元。后来又从Emmy的文章<a href="https://heiheihei.ca/2021/12/02/2021myfavoritetools/" title="2021爱用材料总结">《2021爱用材料总结》</a>里又买了一些补充的。</p>
+<h3 id="纸">纸</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">类别</th>
+<th style="text-align:left">张</th>
+<th style="text-align:left">元</th>
+<th style="text-align:left">元/cm²</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">300g细纹32k</td>
+<td style="text-align:left">4</td>
+<td style="text-align:left">9.52</td>
+<td style="text-align:left">0.008759661</td>
+</tr>
+<tr>
+<td style="text-align:left">300g中粗32k</td>
+<td style="text-align:left">4</td>
+<td style="text-align:left">9.52</td>
+<td style="text-align:left">0.008759661</td>
+</tr>
+<tr>
+<td style="text-align:left">300g粗纹32k</td>
+<td style="text-align:left">4</td>
+<td style="text-align:left">9.52</td>
+<td style="text-align:left">0.008759661</td>
+</tr>
+<tr>
+<td style="text-align:left">300g中粗8k</td>
+<td style="text-align:left">4</td>
+<td style="text-align:left">38.56</td>
+<td style="text-align:left">0.008901200</td>
+</tr>
+<tr>
+<td style="text-align:left">185g中粗16k</td>
+<td style="text-align:left">10</td>
+<td style="text-align:left">36.42</td>
+<td style="text-align:left">0.006725761</td>
+</tr>
+<tr>
+<td style="text-align:left">[阿诗水彩纸的花销]</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>纸我先买了一批300g的，后来又买了一批185g的，买完后因为凸显了比较，我开始有些心疼价格，觉得用300g很有心理负担，所以疯狂用185g的，到作业全部完成的时候，185g的纸只剩两张了，300g的还剩下3张8k和5张32k。</p>
+<p>之后我可能还想尝试一下其它牌子的，然后再多感受自己喜欢什么纹理。</p>
+<h3 id="水彩用的笔">水彩用的笔</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:left">元</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">歌文水彩-4支套装</td>
+<td style="text-align:left">94.26</td>
+</tr>
+<tr>
+<td style="text-align:left">温莎牛顿短平头14号</td>
+<td style="text-align:left">23.76</td>
+</tr>
+<tr>
+<td style="text-align:left">华虹透明笔杆-5号</td>
+<td style="text-align:left">23.13</td>
+</tr>
+<tr>
+<td style="text-align:left">[水彩用笔]</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>笔的话就看到课件讲不同笔刷的时候配图是歌文水彩，于是就挑了这个套装，但用下来发现其实有些细了。</p>
+<p>到了课程后半期非常好奇课程视频里Emmy用的透明笔杆是什么，意外在博客里找到了是荷尔拜因的一款500R，结果我犹豫了一段时间淘宝就所有店都没货啦，客服说要预定的话需要等两三个月可以到货，我就放弃了，然后找了华虹的透明笔杆来补充上我比较缺的笔触宽的笔。</p>
+<h3 id="固体颜料">固体颜料</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:left">元</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">40色0.5ml颜料分装</td>
+<td style="text-align:left">62.13</td>
+</tr>
+<tr>
+<td style="text-align:left">24色不透明 color cake</td>
+<td style="text-align:left">335.76</td>
+</tr>
+<tr>
+<td style="text-align:left">[Holbein固体颜料]</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>固体颜料我先买了分装，有40色之多，用着感觉不太行，觉得颜料很淡的感觉，后来就又买了荷尔拜因的蛋糕盘不透明水彩。不过到后半期我发现其实是我最开始不太懂调色，就导致放水很多颜色不太好看，颜色本身应该没什么问题，而且填补了很多荷尔拜因这款里没有的颜色，比如PR101、靛蓝什么的，我就蛮高兴买了分装的。</p>
+<h3 id="管状颜料">管状颜料</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">商品名</th>
+<th style="text-align:left">规格</th>
+<th style="text-align:left">元</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">NICKER</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">91黑色</td>
+<td style="text-align:left">12ml</td>
+<td style="text-align:left">15.64</td>
+</tr>
+<tr>
+<td style="text-align:left">01永固白</td>
+<td style="text-align:left">12ml</td>
+<td style="text-align:left">15.64</td>
+</tr>
+<tr>
+<td style="text-align:left">WinsorNewton</td>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">温莎黄</td>
+<td style="text-align:left">14ml</td>
+<td style="text-align:left">39.19</td>
+</tr>
+<tr>
+<td style="text-align:left">永固玫红</td>
+<td style="text-align:left">14ml</td>
+<td style="text-align:left">55.19</td>
+</tr>
+<tr>
+<td style="text-align:left">温莎绿</td>
+<td style="text-align:left">14ml</td>
+<td style="text-align:left">39.19</td>
+</tr>
+<tr>
+<td style="text-align:left">法国群青</td>
+<td style="text-align:left">14ml</td>
+<td style="text-align:left">52</td>
+</tr>
+<tr>
+<td style="text-align:left">温莎蓝（绿）</td>
+<td style="text-align:left">14ml</td>
+<td style="text-align:left">39.19</td>
+</tr>
+<tr>
+<td style="text-align:left">无镉猩红</td>
+<td style="text-align:left">5ml</td>
+<td style="text-align:left">41.59</td>
+</tr>
+<tr>
+<td style="text-align:left">[管状颜料]</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>管状颜料几乎都是我前期非常跃跃欲试很想买的时候买的，对我主要的价值就是让我体验了极度开心，我生命过去这些年我从来没想过「我想学水彩」，但是收到管状颜料那天晚上，我躺着心里也抑制不住的开心，不断重复「天呐，我居然拥有颜料了」，当然，我现在也无法准确解释这种开心的缘由是什么。</p>
+<h3 id="其它">其它</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align:left"></th>
+<th style="text-align:left">元</th>
+<th style="text-align:left"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">纸胶带 1.5cm</td>
+<td style="text-align:left">1.48</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">裁缝胶带 3mm*5</td>
+<td style="text-align:left">5.3</td>
+<td style="text-align:left">淘宝上找不到3mm细的纸胶带，最后搜到一个说裁缝衣服时候用的，黏性比较强，所以要先撕下来粘塑料板上，再用在纸上才不会最后伤害纸。</td>
+</tr>
+<tr>
+<td style="text-align:left">水胶带 25mm*45m</td>
+<td style="text-align:left">10.98</td>
+<td style="text-align:left">我想要尝试一下裱纸，就买了水胶带在塑料板上贴，后来放一会就自己翘边了，而且水胶带粘在纸边缘的部分如果想取下来会很费劲。水胶带可能需要搭配木板一起使用更好，但我并没有木板。我以后可能太会用了。</td>
+</tr>
+<tr>
+<td style="text-align:left">留白胶马克笔 0.7mm</td>
+<td style="text-align:left">13.24</td>
+<td style="text-align:left">第一批我先买的笔状的留白胶，不太好用，感觉不怎么出水，每次都需要疯狂按压很久才能流畅出一点，每一会干了又要疯狂按压。反正不好用。</td>
+</tr>
+<tr>
+<td style="text-align:left">瓶装留白胶+硅胶笔</td>
+<td style="text-align:left">62.9</td>
+<td style="text-align:left">后来Emmy多次提到很喜欢荷尔拜因的留白胶，于是我就又补买了这一款瓶装的，用下来很惊喜，之前用马克笔版的时候我搓胶也很费劲，没想到荷尔拜因的居然可以稍微搓起来一点后连带着撕剩余部分。除了硅胶笔确实会有些打滑之外其它的都蛮好的，之后也想用筷子削一根木质笔试试效果。</td>
+</tr>
+<tr>
+<td style="text-align:left">陶瓷调色盘-小圆形</td>
+<td style="text-align:left">1.48</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">陶瓷调色盘-小梅花</td>
+<td style="text-align:left">4.44</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">柑桔洗笔皂 100g</td>
+<td style="text-align:left">26.36</td>
+<td style="text-align:left">有次调色后洗笔的时候发现颜料染色很深进入根部了，我不知道怎么处理就用了肥皂，反复洗了很多遍……后来才知道这样对笔不太好，我的笔已经开始翘毛了反正，然后搜了一下洗笔视频看到人家用达芬奇的洗笔皂，于是也买啦。</td>
+</tr>
+<tr>
+<td style="text-align:left">钢尺 30cm</td>
+<td style="text-align:left">8.36</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">拷贝台 A4</td>
+<td style="text-align:left">53.53</td>
+<td style="text-align:left">拷贝台最开始我没有注意看牌子，就找了一个我觉得比较便宜的，加上很花哨的说背面有切割板，现在看来真是没有必要，而且我用起来会有些担心是不是不够亮……总在幻想是不是有比这个好的才对。</td>
+</tr>
+<tr>
+<td style="text-align:left">可塑橡皮</td>
+<td style="text-align:left">6.52</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">切割垫板 A3</td>
+<td style="text-align:left">10.26</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">无酸底片袋 135 10张</td>
+<td style="text-align:left">6.93</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">[一些其它小工具]</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2 id="最后">最后</h2>
+<p>我没想到写这样一篇回顾这么费劲，我从6月底开的文档，到7月底居然才拼凑出来，真的不容易呀，不过我终于可以丢下写文章的压力，继续去水彩201的旅程啦！</p>
+<p>changelog</p>
+<ul>
+<li>2022-06-28 start</li>
+<li>2022-07-12 补充了how begin</li>
+<li>2022-07-18 做完所有作业，尝试有些难地写写</li>
+<li>2022-07-24 我已经开始听201啦，想要赶紧结束这边啊哈哈，一口气补全了不想再写了！</li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>看《伦敦生活》第二季</title>
+			<link>https://fiber.win/posts/fleabag-s2/</link>
+			<pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+			
+			<guid>https://fiber.win/posts/fleabag-s2/</guid>
+			<description>今天恰好是一个人的周末，于是花了午饭之后一个下午的时间从头到尾连续看了一遍，有好多细节果真是不看字幕的时候不知道的。比如最后一天，两人在花园</description>
+			<content type="html"><![CDATA[<p>今天恰好是一个人的周末，于是花了午饭之后一个下午的时间从头到尾连续看了一遍，有好多细节果真是不看字幕的时候不知道的。比如最后一天，两人在花园遇到，然后女生问 The God or Me，神父说等事情结束，到了公交站的时候说 The God 我才知道那是给一个选择的回复。</p>
+<p>似乎看起来就还是一个，相爱但不能在一起的例子。但我还是觉得美好啊。</p>
+<p>这遍看下来，最触动我的是 Fleabag 去教堂祈祷，看到满脸凌乱的神父在一跳一跳着去够放在柜子上的酒。然后她端着酒杯在告解室里面，一点点说出自己的恐惧，“我多希望自己可以好好生活，可是无论做什么都是错的，我多希望有人来告诉我到底每天要怎么做，什么时候开玩笑什么时候不开，怎么才好。我已经很努力了，可是为什么我还是在害怕。其他的人有你告诉他们到底该怎么做，所以告诉我到底该怎么做？”</p>
+<p>Fall in. 这一段太抓心挠肺了。</p>
+<p>最喜欢他们俩的就是，其实两个人都已经欲火焚身了但又不得不保持正常，然后一有机会就猛地冲在一起，这可太让人开心了。什么才是火花，是那种喷发的感觉。</p>
+<p>另一个打动是，在她不知道要怎么才能撩到神父的时候，出来一个大姐姐说，趁你年轻，你赶紧去 Party 撩小哥哥吧。那个大概很给她震撼，有时候觉得这种气质的女生真的太吸引人了，不能用男性的帅气来形容，这是另一种魅力，特别抓人的。</p>
+<p>片头说在她和姐姐冲突之后，371天x小时之后发生了什么。It&rsquo;s a love story. 她爸爸说，你比我们所有人都要更懂爱，所以你会觉得那很痛苦。她回头说，可我并不觉得痛苦啊。她痛苦的是什么呢，是自己的爱无处安放，对妈妈的爱转移到好友，结果好友去世了。接下来进入了恍惚生活，她还可以去爱谁呢。</p>
+<p>遇到了神父。</p>
+<p>最后等待公交的时候，站牌并不准，写着四十多分钟，可能马上就来了，但也有可能取消。和爱一样吗，我爱上了你，你爱上了我，最后你走了，我也重新开始生活。</p>
+<p>真的太喜欢这一季的 Fleabag。在挣扎，向往更好，在尝试，在表达爱，尽管自己是一团糟。</p>
+<blockquote>
+<p>I just keep going.<br>
+If I&rsquo;d want to, I&rsquo;ll be alright.</p>
+</blockquote>
+]]></content>
+		</item>
+		
+		<item>
+			<title>读《我要快乐 不必正常》</title>
+			<link>https://fiber.win/posts/why-be-happy-when-you-could-be-normal/</link>
+			<pubDate>Wed, 08 May 2019 11:55:45 +0800</pubDate>
+			
+			<guid>https://fiber.win/posts/why-be-happy-when-you-could-be-normal/</guid>
+			<description>2019-05-08 今天突然想到，我在阅读过程里的各种感动、欣喜和共情，最后如果只能幻化作一句“太喜欢了”，那这份喜欢未免也太过于单薄了，实际是掩盖不了的自我</description>
+			<content type="html"><![CDATA[<h4 id="2019-05-08"><code>2019-05-08</code></h4>
+<p>今天突然想到，我在阅读过程里的各种感动、欣喜和共情，最后如果只能幻化作一句“太喜欢了”，那这份喜欢未免也太过于单薄了，实际是掩盖不了的自我匮乏。所以，还是得记录下一点碎片。</p>
+<p>一本书可以获得我的好感，首先要从装帧、封面、纸张和排版开始，这本无疑每一项都恰好让我欢喜。纸张轻柔且可以自然摊开，无需在看书时候两手发力阻止它合上，解放了阅读时候的双手。</p>
+<p>开封后我第一时间就拆掉了包封，以至于到现在读了大半，我都没有认真打量过那个大面积黑白交替、对比强烈的封皮到底有些什么。另一方面，我过于喜欢这本精装的内封了，那种清亮的浅湖蓝色，正中是一个手里拿着书的白色线条插画，画里的书封面写着“Why be Happy When you could be Normal”，昨天读到她离开家的时候，才知道这是她妈妈的问句，也就是本书书名，而这个中文翻译，像极了对英文的回答。</p>
+<p>她坦言自己喜欢碎片表达，因为在她眼里时间并非线性的。她的碎片区别于我这样过于跳跃无序的想法，书里每一章都是由一个名词串起来的一系列事情，一点点铺开她幼时的记忆，这不正是记忆的打开方式吗，触景生情、睹物思人，从一条街道、一个物件可以想起来一小段过去，只有所有碎片合在一起才能拼接成完整的时间线。</p>
+<p>小时候她不被允许读书，于是她把书藏在床垫下，一层一层垒高，到最后被妈妈发现，当晚把书丢进院子烧掉。比违反读书禁令更严重的事，是和同性发生什么。她的女孩叫作珍妮，离开家的那晚，母亲威胁她说要告诉珍妮妈妈，她回答“她知道。她不像你。”“要么你永远不要见她，要么永远不要回来”，16岁的她收拾自己极少的东西离开，在亭子里睡了一晚，全身僵硬，然后带着自己的欲望和愤怒，走向更大的世界。</p>
+<h4 id="2019-07-12"><code>2019-07-12</code></h4>
+<p>我真的太喜欢作者了，她的表达，对世界的理解。于是在我的摘抄还未完成之前，我已经开始读英文版（同时《橘子不是唯一的水果》也在阅读中），目前为止遇到的惊喜是，在同一章节的几乎同一页，我在中文里标记了一段喜欢，而英文版的时候又标记了另一段。双倍喜欢。</p>
+<blockquote>
+<p>If the sun is shining, stand in it – yes, yes, yes. Happy times are great, but happy times pass – they have to – because time passes.</p>
+</blockquote>
+<p>读英文版最大的感受是，第一观感不同，中文里夹杂了译者对文字的理解，用炫酷的词汇来表达，而对照同样的段落，英文简单直接，却直击我心。</p>
+<p>此篇文章必然碎片化，我更愿意慢一点再慢一点读。</p>
+<h4 id="2019-07-20-关于橘子不是唯一的水果"><code>2019-07-20</code> 关于《橘子不是唯一的水果》</h4>
+<p>前两天看完了《橘子不是唯一的水果》，后知后觉意识到这两部的书名居然都曾经从作者母亲的口里说出来过。</p>
+<p>我喜欢作者用那种看似俏皮实则严肃的语气来描述自己眼中的世界。《快乐》里面她有很多关于自己内心活动的介绍，但是《橘子》没有，橘子大多是描述，描述别人做了什么，她做了什么，似乎所有的事情都是没有因由的。无法理解别人，也无需要别人理解自己。</p>
+<p>《橘子》里面不同的是，多了很多很神话的故事。其中一个故事里的女孩被男巫猜中名字后收养，在长大触怒男巫之后独自离开，离开的前夜，男巫变身成老鼠悄悄在她的纽扣上系上了隐形的线，出去后的女孩又不断想要寻找自己曾到过的这个神奇地方，学习各种技术最终自己在海上启程。这是她自己故事的另一个版本，真实世界里是愤怒的母亲，以及母亲手里的那根隐形的线，“只要她高兴，就能牵绊住我”。</p>
+<p>作者在《快乐》里面说《橘子》里面的艾尔西是虚构的，因为没有她，故事将难以接受。读完才惊讶于艾尔西对于她来说有多重要的意义，尽管不曾存在过，但帮她度过了无数的难关，艾尔西几乎等同于可以完全理解她内心世界的唯一一人，无需言语。</p>
+<p>到最后她和家乡的告别，基本等同于和艾尔西的告别。早已和教会冲突的她，搬出了家，然后在一个殡仪馆打零工，恰好得到了艾尔西去世时独自守夜的机会。这也是她在这里的最后一个任务，似乎是和所有的童年往事的告别，那些不快和屈辱。</p>
+<p>再回到家，已是多年以后。她穿过雪地走到家门口，徘徊良久终于推开家门，和正在弹奏电子琴的母亲说“妈，你好，是我。”然后似乎一切没有发生过，生活一切照常进行，她出门去帮母亲采购的时候重新去了一次山顶，将此称之为“干傻事是访客的特权”。</p>
+<blockquote>
+<p>事已至此，可我心依然难安，我渴望有人暴烈地爱我至死不渝，明白爱和死亡一样强大，并永远站在我身边。我渴望有人毁灭我并被我毁灭。世间的情爱何其多，有人可以虚掷一生共同生活却不知道彼此的姓名。命名是艰难而耗时的大事；要一语中的，并意寓力量。否则，在狂野的夜晚，谁能把你唤回家？只有知道你名字的人才能。</p>
+</blockquote>
+]]></content>
+		</item>
+		
+		<item>
+			<title>看《摄影机不要停》</title>
+			<link>https://fiber.win/posts/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B%E3%81%AA/</link>
+			<pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
+			
+			<guid>https://fiber.win/posts/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B%E3%81%AA/</guid>
+			<description>我几乎不看恐怖片，因为胆小。而这次因为耳闻评分很高，又是喜剧，所以尽管是丧尸片，我在看了一遍豆瓣的剧照之后，确定画面尺度还在勉强可接受的范围</description>
+			<content type="html"><![CDATA[<p>我几乎不看恐怖片，因为胆小。而这次因为耳闻评分很高，又是喜剧，所以尽管是丧尸片，我在看了一遍豆瓣的剧照之后，确定画面尺度还在勉强可接受的范围，凭着好奇为什么评价如此高的心就去了。在接近零下十度的室外走了那么远，算是不枉此行吧。</p>
+<p>最打动我的部分是父女的感情线。所以我猜测下面的描述可能会把整个电影的风格都描偏。</p>
+<p>电影里的父亲日暮隆之的是一个在导演职位多年之后习得了“人总是要学会妥协的”技能的人，为了能拍出作品，唯唯诺诺，甚至是在女儿看来毫无职业操守的人，而女儿是年轻激进的代表，她希望演员用真泪水真感情去入戏，而不是用眼药水假表情去表演。</p>
+<p>日暮隆之的第一次哭戏，是在一次看似平常的聊天之后。一位有酗酒毛病的演员在笑谈中讲到自己女儿，本来已经戒酒的他，在多年以后女儿同意见面的时候，因为紧张过度而又灌了很多酒，最后错过了见面。多么令人错愕却又理所当然的乌龙，他最后说“我就是这样的烂人啊，可是我也希望活成女儿的自豪的样子啊。”</p>
+<p>日暮隆之晚上回家抱着和女儿小时候的合照大哭。之后发现女儿新迷上的男演员，居然就是之前自己没想考虑的剧本男主，于是接了下来。才有了后来的三十分钟一镜到底，和令人捧腹的各式花絮。</p>
+<p>拍摄最后，女儿在人肉摇臂机上拍完最后一个剧本的灵魂镜头，大家欢呼，她拿出小时候的合照，日暮隆之笑得像个孩子。最好的事莫过于得到最在乎的人的认可吧，至少这个结局，对父亲角色的他来说，是圆满的。</p>
+<p>影片的构思最精彩的部分自然是后面三分之二的拍摄花絮式讲解。因为这一部分的存在，前三分之一里总是有些别扭之处的背后原因有了解释，传递给观众哪些是剧本、哪些是临场发挥的信息，也是这一部分最为精彩。所有因为意外情况而意外出现的画面，让人意想不到的“后台”心惊胆战的状况和演员们对此的反应，一一解释，博人一笑。</p>
+<p>笑声之余，也带观众体验了拍摄过程的惊险，那种就算排练的时候准备万全也无法避免的突发惊险，所有在后台待过的人恐怕都会感同身受，但最令人激动的，也不过就是无论发生什么，也能在翻来覆去之后依然拼凑一个完整的灵魂么。</p>
+<p>日暮隆之的表演部分之所以出彩，是他在日常形象和演员角色的反差，作为真实导演的他在演员面前丝毫不敢有所得罪，但演员空缺，他迫不得已自己上场的时候，到了镜头前，确切的说，是那个正在直播而不能中断的镜头前，就有了理由，借着表演的壳子说出自己真正想说的话。</p>
+<p>他对自己的作品有决定权吗，并没有，周围的人在对他说“过得去就行了，谁在意这个，只有你在意吧。”他能做什么呢，什么都做不了，更现实的状况或许是，他女儿想的那些花招并不会有机会实行，有人为了维护一个“过得去”的结果而不允许有任何的闪失出现，威胁平稳的，砍，砍，砍，灵魂呢，“灵魂是什么？没用。”</p>
+<p>写得比较散乱，只是想记录看完之后的打动和感触。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>看《银翼杀手》</title>
+			<link>https://fiber.win/posts/blade-runner/</link>
+			<pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
+			
+			<guid>https://fiber.win/posts/blade-runner/</guid>
+			<description>上周末的时候片方联系资料馆放映了银翼系列的第一部，1982 年的片子现在重放，资料馆虽是现场售票但依然满座，有的影迷早上八点多就已候在铁栏门外</description>
+			<content type="html"><![CDATA[<p>上周末的时候片方联系资料馆放映了银翼系列的第一部，1982 年的片子现在重放，资料馆虽是现场售票但依然满座，有的影迷早上八点多就已候在铁栏门外，这等热情是我之前万万难以想象的。还好有早到的小伙伴帮我带了张票，不然出门困难症患者估计无缘大银幕的《银翼杀手》了。</p>
+<p>《银翼杀手》（Blade Runner）改编自小说《仿生人会梦见电子羊吗？》，它在科幻电影上的地位非同一般，之所以被很多人称之为经典，是因为在当时的技术条件下，场景特效放在今天来看也没有老套感。此外，它也是赛博朋克风格的经典电影。</p>
+<p>在讲赛博朋克之前，先谈谈电影的重要“道具”之一，雨。持续全程的雨是电影的基本背景，可以说只要是在室外的场景就没有不下雨的，这隐约间透露了片子对于未来的设想，一个反乌托邦的社会。</p>
+<p>在唐人街黑压压的天空下，周边的高楼大厦上的巨幕广告重复着日本艺伎或者可口可乐的广告，空气中是连绵不绝的雨滴，街上有一个日本老板开的露天餐馆，说是餐馆其实就只有一个长长的遮雨棚，他站在柜台后面准备餐食，柜台前是客人们在喝酒吃面，客人背后就是近乎擦肩而过的雨滴。</p>
+<p>《银翼杀手2049》继承了这样的元素，高司令饰演的银翼杀手给自己的 AI 女友换上显形装置后，从虚拟投影变成真身的她，开心地走进雨里，感受雨滴从穿过身体到在皮肤上展开的过程，他们的屋外同样是黑色天空和雨的搭配，整个世界都处在一个不会结束的雨夜之中。</p>
+<p>赛博朋克要展现的是一种“高科技低生活”的状态，未来中高科技存在于世界的各个角落，任何人都能接触并使用，但是，人生活得还是那么惨。这就是他们的基调，也是赛博朋克风格电影会给人压抑感的原因。布鲁斯·特斯林的总结是这样：</p>
+<blockquote>
+<p>待人如待鼠，所有对鼠的措施都可以同等地施加给人。闭上眼拒绝思考并不能使这个惨不忍睹的画面消失。这就是赛博朋克。</p>
+</blockquote>
+<p>回到这部电影本身，它在黑压压的雨夜中用慢节奏讲述了一个关于“追杀复制人”的故事，复制人是人类制造的机器，除了没有情绪外，其他与人类无异，但制造出来后，地位等同于奴隶，所以在他们制造了混乱之后，需要杀人灭口，以防之后无法控制。</p>
+<p>主角 Deckard 就是本片的银翼杀手，任务是解决几个逃回地球的复制人，整个片子就围绕这件事展开。我想提的有两个复制人，一个是和 Deckard 产生了感情的 Rachael，另一个则是暴力且有思想的复制人领袖 Roy。</p>
+<p>被视作升华之处的影片最后阶段，是 Deckard 和 Roy 在楼顶展开最后的较量，Deckard 被 Roy 扳断手指，试图跳到另一个屋顶逃脱，结果却只能用一只手吊挂着不让自己掉下去，此时就算 Roy 什么都不做 Deckard 也已命不久矣，但在 Deckard 抓在房檐的手松开的瞬间，Roy 伸手拉了他一把。</p>
+<p>此时的 Roy 其实也已经走到了生命的尽头，他在雨夜的屋顶坐下，手里的白鸽展翅飞了出去，他说了一段也许是电影史上最动人的死前独白（这段独白被称作 Tears in Rain，在维基百科有自己的<a href="https://en.wikipedia.org/wiki/Tears_in_rain_monologue">条目</a>）：</p>
+<blockquote>
+<p>我曾见过人类无法想象的美，我曾见太空战舰在猎户星座旁熊熊燃烧，注视万丈光芒在天国之门的黑暗里闪耀，而所有过往都将消失于时间，如同泪水消失在雨中……</p>
+</blockquote>
+<blockquote>
+<p>I&rsquo;ve&hellip; seen things you people wouldn&rsquo;t believe&hellip;<br>
+Attack ships on fire off the shoulder of Orion.<br>
+I watched c-beams glitter in the dark near the Tannhäuser Gate.<br>
+All those&hellip; moments&hellip; will be lost in time, like tears&hellip; in&hellip; rain.<br>
+Time&hellip; to die&hellip;</p>
+</blockquote>
+<p>电影里最大的一个冲突，就是人类觉得复制人没有情绪，也不该有，而复制人自始至终都在证明自己。所以当 Rachel 举起枪救下差点被复制人揍死的 Deckard 时，当 Roy 为了心爱的人冒险去找人求救时，最出乎意料的举动下，才有了最催人泪下的独白。</p>
+<h3 id="附">附</h3>
+<p>这篇文章写于两年前。<br>
+今天得知 Roy 的扮演者 Rutger Oelsen Hauer 去世的消息，   <br>
+特意翻出来，以此纪念。      <br>
+2019.07.25</p>
+<ul>
+<li><a href="https://www.gcores.com/articles/113033">“Tears in rain”：《银翼杀手》罗伊·巴蒂饰演者鲁特格·豪尔逝世，享年75岁</a></li>
+<li><a href="https://www.gcores.com/articles/103493">雨中的泪水丨鲁特格·豪尔在《银翼杀手》片场的三天</a></li>
+<li><a href="https://www.gcores.com/collections/18">机核专题“流吧，我的眼泪”</a></li>
+</ul>
+]]></content>
+		</item>
+		
+		<item>
+			<title>读《写给大家看的设计书》</title>
+			<link>https://fiber.win/posts/the-new-designers-design-book/</link>
+			<pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
+			
+			<guid>https://fiber.win/posts/the-new-designers-design-book/</guid>
+			<description>简评 这是一本写给 Non-designer 的书，推荐给像我这样没有设计基础的人。 从这本书里第一次知道了设计的四大原则（亲密性、对齐、重复、对比），当然光知道这几个概</description>
+			<content type="html"><![CDATA[<p><img src="http://upload-images.jianshu.io/upload_images/839636-22a4887cc1812bc5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="书 &amp; 草稿"></p>
+<h2 id="简评">简评</h2>
+<p>这是一本写给 Non-designer 的书，推荐给像我这样没有设计基础的人。</p>
+<p>从这本书里第一次知道了设计的四大原则（亲密性、对齐、重复、对比），当然光知道这几个概念是没什么用的。一个好的设计综合运用了四大原则，而对于新手来说，看到设计只觉不好，却不知道是哪里不好。</p>
+<p>作者抽丝剥茧，把四大原则一一分离开来，结合具体的案例进行讲解，让新手一步步的了解到每个原则如何把原本混乱不堪的页面变得整洁易读而有趣。最难得的是她细致地逐个解释，选取的例子恰到好处，让你只专注于某一个原则。对于新手来说十分友好。</p>
+<p>书后半部分的颜色和字体，对于新手来说是不错的入门材料，我也借此懂得了一个调色板是如何形成的，那么多种英文字体在细节上又有什么细微的差别。</p>
+<p>书的前半部分介绍了设计，她说希望向读者潜移默化地灌输一种思想，使其提高视觉敏感度。我想她做到了，读完这本书，走在路上随处可见的海报、广告都变成了研究的对象，我可以指出哪里由于没有遵循什么原则而显得混乱，如何调整可能会更好。</p>
+<p>当然真正的设计不可能通过阅读一本书就能提高，更多的还需要自己领悟和实践。</p>
+<h2 id="术语卡">术语卡</h2>
+<h3 id="四大基本原则">四大基本原则</h3>
+<ul>
+<li>对比（Contrast）：不是冲突也不是相似，用截然不同吸引注意力</li>
+<li>重复（Repetition）：增强条理，统一</li>
+<li>对齐（Alignment）：建立视觉联系</li>
+<li>亲密性（Proximity）：组织原本孤立的元素，提供清晰的结构</li>
+</ul>
+<h3 id="基本元素">基本元素</h3>
+<p>字体、颜色、大小、线宽、形状、空间、图片</p>
+<h3 id="亲密性">亲密性</h3>
+<p>作者说物理位置上的接近也就意味着存在关联。对于页面中的元素，如果在内容理解上有关联，那么在视觉上也应该将其组织成为一个视觉单元，从而更清晰有条理的表达信息。此时借助视觉效果，可以让人在“扫一眼”中就轻易掌握页面的主要结构。</p>
+<p>所以实际行动中，需要做的是，根据内容的相关性来组织内容，再通过空间关系表达。</p>
+<p><strong>如何检验是否满足亲密性？</strong>——微微眯起眼睛，统计眼睛停顿的次数，以此数一数页面上有多少个元素，如果超过了 3~5 个，表明需要整理一下孤立元素。这也要看实际情况如何。</p>
+<h3 id="对齐">对齐</h3>
+<p>对齐是另一种意义上的组织。它神奇的地方在于，对于那些相隔很远的元素，对齐会让它们间产生一条看不见的线，将其连接在一起。此时页面会隐隐建立起视觉上的结构感，从而使页面统一且有条理。</p>
+<blockquote>
+<p>任何元素都不能在页面上随意安放。每一项都应当与页面上的某个内容存在某种视觉联系。</p>
+</blockquote>
+<p>整本书中，作者 Robin William 用了无数的案例来强调，新手不要随便使用居中对齐，也不要在同一个页面中使用多种文本对齐。当然这只是对于新手的建议，如果设计审美提高了，想要实现居中的效果另说。</p>
+<h4 id="文本对齐的小技巧">文本对齐的小技巧</h4>
+<ol>
+<li>如果在同一个页面上同时使用左对齐和右对齐，那么两种文本单元之间也可以通过一些元素进行对齐，从而连接起来。</li>
+<li>除非文本内容足够长，要避免两端对齐，否则会出现很多难看的空隙。</li>
+<li>想用居中布局？——可以让文本居中，但文本块在页面中不居中。或是让页面变成细长条式。</li>
+<li>不要在左对齐的正文文本上方，居中标题。</li>
+<li>标准版的缩进是 1em。</li>
+<li>在整个页面找一条明确的基准线，坚持以它为基准。</li>
+</ol>
+<h3 id="对比">对比</h3>
+<p>这里需要辨析两个概念：对比&amp;冲突。</p>
+<p>我理解作者表达的意思：冲突是处在对比与相同之间的一种尴尬状态。也就是说对于两个元素，如果要让它们产生对比，那么就大胆地做得不一样，而不是畏畏缩缩相似不相像。</p>
+<blockquote>
+<p>如果两个项不完全相同，就应当使之不同，而且应当是截然不同。</p>
+</blockquote>
+<h3 id="基本颜色">基本颜色</h3>
+<ul>
+<li><strong>三原色</strong>：唯一无法通过混合来创建的颜色（印刷术语）。红黄蓝。</li>
+<li><strong>三基色</strong>：光学中的概念。红绿蓝。</li>
+<li><strong>三间色</strong>：将色轮上的三原色等量混合所得。橙绿紫。</li>
+<li><strong>第三色</strong>：将三间色等量混合得到，有六种。</li>
+</ul>
+<h3 id="色质">色质</h3>
+<p>色质指颜色的特定明暗度、深浅度或色调。如果色质过于接近，会使颜色组合导致视觉抖动，看上去模糊不清、对比微弱。</p>
+<p>如在背景和文本上同时使用深色。</p>
+<h3 id="颜色模型">颜色模型</h3>
+<ul>
+<li><strong>CMYK</strong>（Cyan Magenta Yellow Key）：印刷中常用的四色处理，用这四种墨色来打印成千上万的颜色。</li>
+<li><strong>RGB</strong>（Red Green Blue）：电子屏使用的颜色模型，通过有色光束的混合来组成颜色。所以 <code>#fff</code> 所有颜色组合得到白色，而 <code>#000</code> 所有颜色去掉得到的是黑色。</li>
+</ul>
+<h3 id="字体类别">字体类别</h3>
+<p>由于作者使用英语，所以此处介绍的是英语的字体类别。其中的衬线（Serif）的概念在中文中也适用，但汉字的字体分类则是另一套标准。</p>
+<ul>
+<li><strong>衬线</strong>：笔画末端用来装饰的细节部分。如中文中的宋体就是有衬线字体，而黑体则属于无衬线。</li>
+<li><strong>强调线</strong>：在笔划最细的地方画一条线，这条就是强调线。</li>
+<li><strong>x-height</strong>：英文中小写字母主题的高度，如 a 的高度、d 去掉上半部分的高度。</li>
+<li><strong>ascender（上伸部分）</strong></li>
+<li><strong>descender（下伸部分）</strong></li>
+<li><strong>基线</strong>：字体下方那条不可见的线。</li>
+<li>不同粗细的字体名词：light regular semibold medium bold extrabold</li>
+</ul>
+<p>下面是作者划归的六大类字体，我用表格作了整理对比。</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:left">类别</th>
+<th>衬线</th>
+<th>小写字母衬线</th>
+<th>强调线</th>
+<th>笔划粗细过渡</th>
+<th>备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left"><strong>Oldstyle</strong></td>
+<td>✔</td>
+<td>倾斜</td>
+<td>对角</td>
+<td>缓和</td>
+<td>典雅。适用于显示大量文字。</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Modern</strong></td>
+<td>✔</td>
+<td>水平&amp;细</td>
+<td>垂直</td>
+<td>剧烈</td>
+<td>冷酷高雅。不适用于显示大量文本。</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Slab serif</strong></td>
+<td>✔</td>
+<td>水平</td>
+<td>垂直</td>
+<td>几乎没有</td>
+<td>简洁直接。常用于儿童图书。</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Sans serif</strong></td>
+<td>×</td>
+<td>没有</td>
+<td>一般没有</td>
+<td>一般没有</td>
+<td>可使用含有较大粗细差异的字体系列来设计。</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Script</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>手写体</td>
+</tr>
+<tr>
+<td style="text-align:left"><strong>Decorative</strong></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>装饰性的字体，要有限制地使用。</td>
+</tr>
+</tbody>
+</table>
+<p>对于字体的使用，作者的原则是：<strong>不要把同一个类别中的两种字体放在同一个页面上</strong>。因为具有相似性则会造成冲突，所以在没有经验的情况下，这是比较安全的做法。</p>
+<p>要实现字体对比，可以从以下几个方面来入手：
+大小、粗细、结构、形状、方向、颜色。</p>
+<h2 id="金句卡">金句卡</h2>
+<p>p.41</p>
+<blockquote>
+<p>关于打破规则本身也有一条 Robin 规则：在打破规则之前必须清楚规则是什么。</p>
+</blockquote>
+<p>p.73</p>
+<blockquote>
+<p>有关设计（同时也是有关生活）的一个更一般的指导原则是<strong>不要畏畏缩缩</strong>。</p>
+<ul>
+<li>不要害怕在设计（或生活）中留有空白，这能让你的眼睛（以及心灵）稍作休息。</li>
+<li>不要害怕设计是不对称的。</li>
+<li>不要害怕把单词设置得非常大或非常小，不用担心说话声太大或者太小。在合适的场合这都是可以的。</li>
+<li>只要最后的结果能支持或强调你的设计或观点，不要害怕让图片太大或太小。</li>
+</ul>
+</blockquote>
+<p>p.151</p>
+<blockquote>
+<p>手写字体就像奶酪蛋糕，要少用，才不会让人觉得恶心。</p>
+</blockquote>
+<h2 id="行动卡">行动卡</h2>
+<ul>
+<li>在看设计作品的时候，找出各个设计特性，包括好的和不好的。</li>
+<li>找出作品中各个种类字体的例子。</li>
+<li>看作品时，注意自己的眼睛会落在什么地方，由什么样的顺序阅读下去，被什么吸引。</li>
+</ul>
+<p><code>阅读用时 3h13m（不完全统计）</code><br>
+<code>笔记用时 1h53m</code></p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>
