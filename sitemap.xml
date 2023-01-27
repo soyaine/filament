@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fiber.win/posts/review-emmy-watercolor101/</loc>
-    <lastmod>2022-07-24T20:16:11+08:00</lastmod>
+    <loc>https://fiber.win/posts/recap-2022/</loc>
+    <lastmod>2023-01-27T23:39:00+08:00</lastmod>
   </url><url>
     <loc>https://fiber.win/posts/</loc>
-    <lastmod>2022-07-24T20:16:11+08:00</lastmod>
+    <lastmod>2023-01-27T23:39:00+08:00</lastmod>
   </url><url>
-    <loc>https://fiber.win/tags/repo/</loc>
-    <lastmod>2022-07-24T20:16:11+08:00</lastmod>
+    <loc>https://fiber.win/tags/recap/</loc>
+    <lastmod>2023-01-27T23:39:00+08:00</lastmod>
   </url><url>
     <loc>https://fiber.win/tags/</loc>
+    <lastmod>2023-01-27T23:39:00+08:00</lastmod>
+  </url><url>
+    <loc>https://fiber.win/</loc>
+    <lastmod>2023-01-27T23:39:00+08:00</lastmod>
+  </url><url>
+    <loc>https://fiber.win/tags/repo/</loc>
     <lastmod>2022-07-24T20:16:11+08:00</lastmod>
   </url><url>
     <loc>https://fiber.win/tags/%E6%B0%B4%E5%BD%A9/</loc>
     <lastmod>2022-07-24T20:16:11+08:00</lastmod>
   </url><url>
-    <loc>https://fiber.win/</loc>
+    <loc>https://fiber.win/posts/review-emmy-watercolor101/</loc>
     <lastmod>2022-07-24T20:16:11+08:00</lastmod>
   </url><url>
     <loc>https://fiber.win/tags/watch/</loc>
@@ -42,8 +48,5 @@
     <lastmod>2016-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fiber.win/index.html</loc>
-  </url><url>
-    <loc>https://fiber.win/about/</loc>
-    <lastmod>0000-02-12T15:32:43+08:00</lastmod>
   </url>
 </urlset>

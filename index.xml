@@ -8,20 +8,29 @@
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://fiber.win/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>repo</title>
-      <link>https://fiber.win/tags/repo/</link>
-      <pubDate>Sun, 24 Jul 2022 20:16:11 +0800</pubDate>
+      <title>recap</title>
+      <link>https://fiber.win/tags/recap/</link>
+      <pubDate>Fri, 27 Jan 2023 23:39:00 +0800</pubDate>
       
-      <guid>https://fiber.win/tags/repo/</guid>
+      <guid>https://fiber.win/tags/recap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
       <link>https://fiber.win/tags/</link>
-      <pubDate>Sun, 24 Jul 2022 20:16:11 +0800</pubDate>
+      <pubDate>Fri, 27 Jan 2023 23:39:00 +0800</pubDate>
       
       <guid>https://fiber.win/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>repo</title>
+      <link>https://fiber.win/tags/repo/</link>
+      <pubDate>Sun, 24 Jul 2022 20:16:11 +0800</pubDate>
+      
+      <guid>https://fiber.win/tags/repo/</guid>
       <description></description>
     </item>
     
@@ -54,7 +63,13 @@
     
   </channel>
 </rss>
-5 +0800</pubDate>
+如最后一天，两人在花园</description>
+    </item>
+    
+    <item>
+      <title>读《我要快乐 不必正常》</title>
+      <link>https://fiber.win/posts/why-be-happy-when-you-could-be-normal/</link>
+      <pubDate>Wed, 08 May 2019 11:55:45 +0800</pubDate>
       
       <guid>https://fiber.win/posts/why-be-happy-when-you-could-be-normal/</guid>
       <description>2019-05-08 今天突然想到，我在阅读过程里的各种感动、欣喜和共情，最后如果只能幻化作一句“太喜欢了”，那这份喜欢未免也太过于单薄了，实际是掩盖不了的自我</description>
@@ -85,15 +100,6 @@
       
       <guid>https://fiber.win/posts/the-new-designers-design-book/</guid>
       <description>简评 这是一本写给 Non-designer 的书，推荐给像我这样没有设计基础的人。 从这本书里第一次知道了设计的四大原则（亲密性、对齐、重复、对比），当然光知道这几个概</description>
-    </item>
-    
-    <item>
-      <title>朵不可爱患者</title>
-      <link>https://fiber.win/about/</link>
-      <pubDate>Sat, 12 Feb 0000 15:32:43 +0800</pubDate>
-      
-      <guid>https://fiber.win/about/</guid>
-      <description>词语碎片 「朵」是一个量词 「不可爱」是短期目标 「患者」是有自知之明的人 「Doila」脱胎于一个读音很好听的单词 Voilà 不太擅长的事 听懂笑话和</description>
     </item>
     
   </channel>
