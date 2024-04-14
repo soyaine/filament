@@ -2,91 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>竹纤维内存</title>
-    <link>https://fiber.win/</link>
+    <link>https://fiber.win/index.html</link>
     <description>Recent content on 竹纤维内存</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 05 Jan 2024 11:21:00 +0800</lastBuildDate><atom:link href="https://fiber.win/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://fiber.win/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2023年我的精神养料</title>
-      <link>https://fiber.win/posts/recap-2023/</link>
+      <title>Tags</title>
+      <link>https://fiber.win/tags/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fiber.win/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>watch</title>
+      <link>https://fiber.win/tags/watch/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://fiber.win/tags/watch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recap</title>
+      <link>https://fiber.win/tags/recap/</link>
       <pubDate>Fri, 05 Jan 2024 11:21:00 +0800</pubDate>
       
-      <guid>https://fiber.win/posts/recap-2023/</guid>
-      <description>今年最大的不同是经历了人生中目前为止不太有过的痛苦和剧烈恐惧，在这样的大背景下，或许不直接相关的，我开始尝试觉察周围的环境是否让我舒适，并尝</description>
+      <guid>https://fiber.win/tags/recap/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>2022年我的精神养料</title>
-      <link>https://fiber.win/posts/recap-2022/</link>
-      <pubDate>Fri, 27 Jan 2023 23:39:00 +0800</pubDate>
-      
-      <guid>https://fiber.win/posts/recap-2022/</guid>
-      <description>很多年没有写年末回顾了，粗糙猜测的话，大概是因为不想被数字绑架，看了多少本书、看了多少部电影，数字被放大、过程被缩略，我很难逃脱这种不由自主</description>
-    </item>
-    
-    <item>
-      <title>软体动物的水彩101课：从理科思维的颜色入门</title>
-      <link>https://fiber.win/posts/review-emmy-watercolor101/</link>
+      <title>repo</title>
+      <link>https://fiber.win/tags/repo/</link>
       <pubDate>Sun, 24 Jul 2022 20:16:11 +0800</pubDate>
       
-      <guid>https://fiber.win/posts/review-emmy-watercolor101/</guid>
-      <description>前情 这篇文章最初只是我想记录下水彩课带给我的快乐时刻，后来零星写着我居然就上完课了，于是转念一想，要不写成这门课的repo好了，一方面是写给</description>
+      <guid>https://fiber.win/tags/repo/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>看《伦敦生活》第二季</title>
-      <link>https://fiber.win/posts/fleabag-s2/</link>
-      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <title>水彩</title>
+      <link>https://fiber.win/tags/%E6%B0%B4%E5%BD%A9/</link>
+      <pubDate>Sun, 24 Jul 2022 20:16:11 +0800</pubDate>
       
-      <guid>https://fiber.win/posts/fleabag-s2/</guid>
-      <description>今天恰好是一个人的周末，于是花了午饭之后一个下午的时间从头到尾连续看了一遍，有好多细节果真是不看字幕的时候不知道的。比如最后一天，两人在花园</description>
+      <guid>https://fiber.win/tags/%E6%B0%B4%E5%BD%A9/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>读《我要快乐 不必正常》</title>
-      <link>https://fiber.win/posts/why-be-happy-when-you-could-be-normal/</link>
+      <title>read</title>
+      <link>https://fiber.win/tags/read/</link>
       <pubDate>Wed, 08 May 2019 11:55:45 +0800</pubDate>
       
-      <guid>https://fiber.win/posts/why-be-happy-when-you-could-be-normal/</guid>
-      <description>2019-05-08 今天突然想到，我在阅读过程里的各种感动、欣喜和共情，最后如果只能幻化作一句“太喜欢了”，那这份喜欢未免也太过于单薄了，实际是掩盖不了的自我</description>
-    </item>
-    
-    <item>
-      <title>看《摄影机不要停》</title>
-      <link>https://fiber.win/posts/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B%E3%81%AA/</link>
-      <pubDate>Fri, 07 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://fiber.win/posts/%E3%82%AB%E3%83%A1%E3%83%A9%E3%82%92%E6%AD%A2%E3%82%81%E3%82%8B%E3%81%AA/</guid>
-      <description>我几乎不看恐怖片，因为胆小。而这次因为耳闻评分很高，又是喜剧，所以尽管是丧尸片，我在看了一遍豆瓣的剧照之后，确定画面尺度还在勉强可接受的范围</description>
-    </item>
-    
-    <item>
-      <title>看《银翼杀手》</title>
-      <link>https://fiber.win/posts/blade-runner/</link>
-      <pubDate>Fri, 27 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://fiber.win/posts/blade-runner/</guid>
-      <description>上周末的时候片方联系资料馆放映了银翼系列的第一部，1982 年的片子现在重放，资料馆虽是现场售票但依然满座，有的影迷早上八点多就已候在铁栏门外</description>
-    </item>
-    
-    <item>
-      <title>读《写给大家看的设计书》</title>
-      <link>https://fiber.win/posts/the-new-designers-design-book/</link>
-      <pubDate>Tue, 29 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://fiber.win/posts/the-new-designers-design-book/</guid>
-      <description>简评 这是一本写给 Non-designer 的书，推荐给像我这样没有设计基础的人。 从这本书里第一次知道了设计的四大原则（亲密性、对齐、重复、对比），当然光知道这几个概</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://fiber.win/about/</link>
-      <pubDate>Sat, 12 Feb 0000 15:32:43 +0800</pubDate>
-      
-      <guid>https://fiber.win/about/</guid>
-      <description>不太擅长的事 听懂笑话和隐含语义 发起对话和接听电话 长时间离开独处状态 喜欢 迅速找到一个不错的角落躲起来 在用湿巾擦拭且晾干后的键盘上的敲击节奏 对着</description>
+      <guid>https://fiber.win/tags/read/</guid>
+      <description></description>
     </item>
     
   </channel>
